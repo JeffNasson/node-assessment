@@ -15,9 +15,11 @@
   "bugs": {
     "url": "https://github.com/DevMountain/node-assessment-in-dev/issues"
   },
+  "proxy":"http://localhost:3000",
+
   "homepage": "https://github.com/DevMountain/node-assessment-in-dev#readme",
   "dependencies": {
-    "express": "^4.15.2",
-    "body-parser": "^1.17.1"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
   }
 }
